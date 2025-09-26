@@ -17,6 +17,9 @@ In TapTown, every key has a story:
 
 This imaginative setup helps kids connect with technology in a friendly, playful way.
 
+![TapTown Book Cover](images/cover.png)
+
+
 ---
 
 ## 🎨 Why It’s Special
